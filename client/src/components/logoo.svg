@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="44.218327mm"
+   height="18.239258mm"
+   viewBox="0 0 44.218327 18.239258"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="/tmp/ink_ext_XXXXXX.svgR8GB21"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview460"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25"
+     inkscape:cx="139.5"
+     inkscape:cy="98.0"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs455" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.7979167,-10.163099)">
+    <text
+       xml:space="preserve"
+       style="font-size:8.89102px;font-family:Terminus;-inkscape-font-specification:Terminus;fill:#073673;stroke-width:0.185229"
+       x="3.9354877"
+       y="21.95384"
+       id="text691"><tspan
+         sodipodi:role="line"
+         id="tspan689"
+         style="stroke-width:0.185229"
+         x="3.9354877"
+         y="21.95384">Books</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.185229"
+         x="3.9354877"
+         y="33.067616"
+         id="tspan693" /></text>
+    <circle
+       style="fill:#073673;stroke-width:0.264583"
+       id="path1266"
+       cx="39.739571"
+       cy="19.282728"
+       r="9.1196289" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.25416px;font-family:Terminus;-inkscape-font-specification:Terminus;fill:#073673;stroke-width:0.151128"
+       x="31.062199"
+       y="21.696436"
+       id="text1270"><tspan
+         sodipodi:role="line"
+         id="tspan1268"
+         style="fill:#fffefe;fill-opacity:1;stroke-width:0.151128"
+         x="31.062199"
+         y="21.696436">&amp;buy</tspan></text>
+  </g>
+</svg>

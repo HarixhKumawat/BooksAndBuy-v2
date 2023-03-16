@@ -21,7 +21,8 @@ const Login = () => {
         if(response.data !== undefined && response.statusText === "OK"){
             console.log(response.data)
             sessionStorage.setItem("token",response.data.token);
-            sessionStorage.setItem("pid",response.data.pid);
+            sessionStorage.setItem("username",response.data.username);
+            window.location.reload(false)
             navigate('/');
         }
     }
@@ -29,7 +30,7 @@ const Login = () => {
     useEffect(()=>{
         if(sessionStorage.getItem('token')){
                 alert('Already logged in!!');
-                navigate('/Dashboard')
+                navigate('/')
         }
     },[sessionStorage.getItem('token')]);
 
